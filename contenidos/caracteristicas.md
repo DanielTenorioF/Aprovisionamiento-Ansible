@@ -1,5 +1,7 @@
 # Características
 
+![image](/img/26.jpg)
+
 Entre sus características mas importantos son:
 
 - Un overhead (gastos generales) muy bajo.

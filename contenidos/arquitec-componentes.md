@@ -8,6 +8,7 @@ A diferencia de otros programas como Chef y Puppet, Ansible adopta una arquitect
 
 Esto reduce la sobrecarga de la red y evita estrategias de control agresivas por parte del servidor, como sondeos constantes.
 
+![image](/img/23.jpg)
 
 ## Componentes
 
@@ -24,3 +25,5 @@ Los componentes principales de Ansible, a la hora de realizar el despliegue de a
 **Files:** Directorio para almacenar archivos a copiar en hosts asociados a un rol.
 
 **Tasks:** Directorio donde se definen tareas a ejecutar en hosts específicos, cada una con un nombre descriptivo.
+
+![image](/img/21.jpg)
