@@ -11,7 +11,9 @@
 5. [Arquitectura y componentes](/contenidos/arquitec-componentes.md)
 
 ## Referencias
-- 
+- [FormadoresIT](https://formadoresit.es/que-es-ansible/)
+
+- [Wikipedia](https://es.wikipedia.org/wiki/Ansible_(software))
 
 ## Autores
 
